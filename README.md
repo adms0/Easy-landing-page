@@ -1,1 +1,1 @@
-# Easy-landing-page
+# Easy-landing-page tutorial practice
